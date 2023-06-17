@@ -18,6 +18,8 @@ git clone https://github.com/polin103109/Airbnb-Assignment-BanglaPuzzle.git
 
 ## Live Project Demo:
 
+`https://airbnbproject.pages.dev/`
+
 # Author
 
 > Front-End Developer | Back-End Developer | React JS Developer | Node JS Developer | JavaScript Programmer
