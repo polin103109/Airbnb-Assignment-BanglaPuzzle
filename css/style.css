@@ -468,7 +468,7 @@ img {
 /* <!-- pricing section end */
 
 /* <!-- client comment section start --> */
-.total-reviews {}
+
 
 .total-reviews span {
     font-size: 20px;
@@ -487,8 +487,6 @@ img {
     height: 4px;
     margin-right: 10px;
 }
-
-.commenter {}
 
 .commenter-pic {
     margin-right: 5px;
@@ -660,4 +658,7 @@ footer p {
 .description {
     padding-top: 48px;
     padding-bottom: 48px;
+}
+.container{
+    padding-top: 40px;
 }
