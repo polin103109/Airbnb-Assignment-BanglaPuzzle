@@ -19,6 +19,7 @@ git clone https://github.com/polin103109/Airbnb-Assignment-BanglaPuzzle.git
 ## Live Project Demo:
 
 [https://assign-airbnb.netlify.app/](https://assign-airbnb.netlify.app/)
+[https://polin103109.github.io/Airbnb-Assignment-BanglaPuzzle/](https://polin103109.github.io/Airbnb-Assignment-BanglaPuzzle/)
 
 # Author
 
